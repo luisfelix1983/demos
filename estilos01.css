@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding:10px;
+}
+
+body{
+  background: black;
+}
+
+#wrapper{ 
+  margin: 0 auto;
+  width: 960px;
+  background: #999;
+}
+
+#header {
+  height: 180px;
+  background: url(http://lorempixel.com/960/200/people/4);
+}
+
+#nav li{
+  list-style-type: none;
+  display: inline;
+}
+
+#nav li a{
+  color: #fff;
+}
+
+#cuerpo {
+  background: #fff;
+}
+
+#footer {
+  color: #333;
+  background: peru;
+}
