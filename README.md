@@ -1,4 +1,4 @@
-Demos para alumnos de Desarrollo Web
+Demos para Desarrollo Web
 =====
 
 demos
